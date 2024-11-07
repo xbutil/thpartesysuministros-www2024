@@ -62,10 +62,7 @@
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "PWA": {
-      "enabled": true,
-      "name": "TH Partes & Suministros",
-      "icon": "@PROJECT_PATH@/assets/images/th-logo_1.svg",
-      "themeColor": "#111212"
+      "enabled": false
     },
     "site_lang": "es",
     "favicon": "@PROJECT_PATH@/assets/images/th-logo-128x128.png",
@@ -82,7 +79,10 @@
     "gdpr": false,
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "chatbutton": {},
+    "mbrsiteDomain": "4hhxucug6p",
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
